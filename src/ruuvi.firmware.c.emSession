@@ -12,11 +12,9 @@
  <Memory4/>
  <Project>
   <ProjectSessionItem path="ruuvi.firmware.c"/>
-  <ProjectSessionItem path="ruuvi.firmware.c;NRF82840_Dongle"/>
-  <ProjectSessionItem path="ruuvi.firmware.c;NRF82840_Dongle;Application"/>
-  <ProjectSessionItem path="ruuvi.firmware.c;NRF82840_Dongle;Application;app"/>
-  <ProjectSessionItem path="ruuvi.firmware.c;NRF82840_Dongle;Application;Configuration"/>
-  <ProjectSessionItem path="ruuvi.firmware.c;NRF82840_Dongle;ruuvi.boards.c"/>
+  <ProjectSessionItem path="ruuvi.firmware.c;pca10040"/>
+  <ProjectSessionItem path="ruuvi.firmware.c;pca10040;Application"/>
+  <ProjectSessionItem path="ruuvi.firmware.c;pca10040;Application;app"/>
  </Project>
  <Register1/>
  <Register2/>
@@ -49,5 +47,5 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="application_config/application_modes.h" selected="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="28" y="1" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="ruuvi.boards.c/ruuvi_board_pca10059.h" selected="0" top="0" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="NRF82840_Dongle" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="pca10040" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

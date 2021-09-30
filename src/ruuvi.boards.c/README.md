@@ -13,6 +13,9 @@ Open an issue or pull request at GitHub.
 BSD-3
 
 # Changelog
+## 3.7.1
+ - add NRF52840 Dongle Board
+
 ## 3.7.0 
  - Add Power pins to RuuviTag and Kalervo
 

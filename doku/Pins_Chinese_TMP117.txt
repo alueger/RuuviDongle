@@ -1,0 +1,7 @@
+braun 		= 	4 	= 	GND
+blau 		=  	6 	= 	SDA
+schwarz  	= 	1 	= 	SCL
+grün		=	5	= 	GND
+weiß 		= 	2	= 	detect (tid to PWR)
+rot 		=	3	= 	PWR
+

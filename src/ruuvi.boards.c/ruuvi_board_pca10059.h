@@ -110,7 +110,7 @@
 #define RB_ACCELEROMETER_LIS2DH12_SPI_USE 0
 #define RB_ACCELEROMETER_LIS2DH12_I2C_USE 0
 #define RB_ENVIRONMENTAL_TMP117_PRESENT   (1U)
-#define RB_TMP117_I2C_ADDRESS             (0x48U) //!< 0x48-0x4B depending on ADD0 pin
+#define RB_TMP117_I2C_ADDRESS             (0x49U) //!< 0x48-0x4B depending on ADD0 pin
 
 #define RB_TMP117_SENSOR_POWER_PIN        RB_PORT_PIN_MAP(0, 2)
 #define RB_SHTCX_SENSOR_POWER_PIN         RB_PORT_PIN_MAP(0, 2)
